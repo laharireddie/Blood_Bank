@@ -1,2 +1,6 @@
-# Blood_Bank
- Blood Bank Donation using -HTML,PHP,SQL,CSS,JavaScript.
+# bloodbank
+Blood Bank Management System In Bootstrap PHP and MySQL 
+
+#admin login
+username: admin
+password: admin
